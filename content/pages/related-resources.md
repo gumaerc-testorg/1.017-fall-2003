@@ -1,6 +1,6 @@
 ---
+content_type: page
 title: Related Resources
-type: page
 uid: e79aab48-4ecf-8832-6f38-f81c5211016a
 ---
 
