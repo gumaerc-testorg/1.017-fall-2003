@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/1e92bac59c28026825f9926e09815186_class03_6.pdf
-file_location: /coursemedia/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/1e92bac59c28026825f9926e09815186_class03_6.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/1e92bac59c28026825f9926e09815186_class03_6.pdf
 file_type: application/pdf
 resourcetype: Document
 title: class03_6.pdf

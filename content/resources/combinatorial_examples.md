@@ -1,8 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for lecture 5.
-file: /media/courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/c69f9d32e20c31fb8ac6509e8dc062ac_combinatorial_examples.pdf
-file_location: /coursemedia/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/c69f9d32e20c31fb8ac6509e8dc062ac_combinatorial_examples.pdf
+file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/c69f9d32e20c31fb8ac6509e8dc062ac_combinatorial_examples.pdf
 file_type: application/pdf
 resourcetype: Document
 title: combinatorial_examples.pdf
