@@ -117,11 +117,11 @@ Quiz 3 ([PDF]({{< baseurl >}}/resources/quiz02_3))
 Quiz 1 ([PDF]({{< baseurl >}}/resources/quiz01_1))
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz01\_1\_1.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/exams/Quiz01_1_1.m))  
-Quiz01\_1\_2.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/exams/Quiz01_1_2.m))  
-Quiz01\_1\_3.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/exams/Quiz01_1_3.m))  
-Quiz01\_1\_4.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/exams/Quiz01_1_4.m))  
-Quiz01\_1\_5.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/exams/Quiz01_1_5.m))
+Quiz01\_1\_1.m ([M]({{< baseurl >}}/resources/quiz01_1_1))  
+Quiz01\_1\_2.m ([M]({{< baseurl >}}/resources/quiz01_1_2))  
+Quiz01\_1\_3.m ([M]({{< baseurl >}}/resources/quiz01_1_3))  
+Quiz01\_1\_4.m ([M]({{< baseurl >}}/resources/quiz01_1_4))  
+Quiz01\_1\_5.m ([M]({{< baseurl >}}/resources/quiz01_1_5))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,10 +130,10 @@ Quiz01\_1\_5.m ([M](/courses/civil-and-environmental-engineering/1-017-computing
 2001
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz 2 (with solutions) ([PDF]({{< baseurl >}}/resources/quiz01_2sol))
+Quiz 2 (with solutions) ([PDF]({{< baseurl >}}/resources/quiz01_2sol-1))
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz01\_2sol.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/exams/Quiz01_2sol.m))
+Quiz01\_2sol.m ([M]({{< baseurl >}}/resources/quiz01_2sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -169,7 +169,7 @@ Another Practice Quiz 3 (with solutions) ([PDF]({{< baseurl >}}/resources/quiz01
 Quiz 1 ([PDF]({{< baseurl >}}/resources/quiz00_1))
 {{< tdclose >}}
 {{< tdopen >}}
-Quiz00\_1.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/exams/Quiz00_1.m))
+Quiz00\_1.m ([M]({{< baseurl >}}/resources/quiz00_1-1))
 {{< tdclose >}}
 
 {{< trclose >}}

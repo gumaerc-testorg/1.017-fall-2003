@@ -31,7 +31,7 @@ SUPPORTING FILES
 Programming in MATLAB® ([PDF]({{< baseurl >}}/resources/rec03_1))
 {{< tdclose >}}
 {{< tdopen >}}
-climate\_plot.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/recitations/climate_plot.m))
+climate\_plot.m ([M]({{< baseurl >}}/resources/climate_plot))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +43,7 @@ climate\_plot.m ([M](/courses/civil-and-environmental-engineering/1-017-computin
 MATLAB® Operations ([PDF - 1.7 MB]({{< baseurl >}}/resources/rec03_2))
 {{< tdclose >}}
 {{< tdopen >}}
-oxygen.m ([M](/courses/civil-and-environmental-engineering/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/recitations/oxygen.m))
+oxygen.m ([M]({{< baseurl >}}/resources/oxygen))
 {{< tdclose >}}
 
 {{< trclose >}}
