@@ -1,7 +1,7 @@
 ---
 content_type: resource
-description: Supporting solution file for Quiz1 2001.
-file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/7d7618118e1a95a378e726fff32554cc_Quiz01_1_1.m
+description: Supporting solution file for Quiz2 2001.
+file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/6ea177f8ae4d776c5d7272b3863e5267_Quiz01_2sol.m
 file_type: text/plain
 learning_resource_types:
 - Exams
@@ -10,12 +10,12 @@ parent_title: Exams
 parent_type: CourseSection
 parent_uid: 95cf6ce2-8555-4ed8-f935-4f1bcc321409
 resourcetype: Other
-title: Quiz01_1_1.m
-uid: 7d761811-8e1a-95a3-78e7-26fff32554cc
+title: Quiz01_2sol.m
+uid: 6ea177f8-ae4d-776c-5d72-72b3863e5267
 video_files:
   video_thumbnail_file: null
 video_metadata:
   youtube_id: null
 ---
-Supporting solution file for Quiz1 2001.
+Supporting solution file for Quiz2 2001.
 
