@@ -8,6 +8,7 @@ file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -22,4 +23,3 @@ video_metadata:
 ---
 Function to Simulate Sampling from a Set of 20 Colored Balls. 8 red, 3 white, 9 blue,
 sample 3 balls without replacement. This is a supporting file for Lecture #5.
-

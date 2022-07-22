@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
-license: ''
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 resourcetype: Document
 title: pset4_cdffit.m
 uid: 925c7fce-8329-4f09-8396-b49a156fc56a

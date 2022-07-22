@@ -5,6 +5,7 @@ file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

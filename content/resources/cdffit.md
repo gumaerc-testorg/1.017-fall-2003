@@ -6,6 +6,7 @@ file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-
 file_type: text/plain
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 Program to Compare Sample and Specified CDFs. This is a supporting file for Lecture #10.
-

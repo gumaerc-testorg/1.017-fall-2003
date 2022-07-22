@@ -5,6 +5,7 @@ file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-
 file_type: text/plain
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
