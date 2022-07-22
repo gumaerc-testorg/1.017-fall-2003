@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: ''
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3707200f-bc31-cceb-7bc2-a55e4447f681
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
@@ -32,4 +39,4 @@ The class includes several homework sets and three quizzes held during the two h
 References
 ----------
 
-The primary text is Devore, Jay L. _Probability and Statistics for Scientists and Engineers._ Duxbury Press, 2000. (Noted by D in the [readings]({{< baseurl >}}/pages/readings) section.) Students not familiar with MATLAB® should also consider purchasing one of the many introductory texts on this programming package. A reasonable choice that is easy to read and moderately priced is Etter, D. _Introduction to MATLAB® for Engineers and Scientists._ Prentice-Hall, 1996. (Noted by E in the [readings]({{< baseurl >}}/pages/readings) section.)
+The primary text is Devore, Jay L. _Probability and Statistics for Scientists and Engineers._ Duxbury Press, 2000. (Noted by D in the {{% resource_link 445a0858-6f8a-383e-34f1-bfceb2463f5a "readings" %}} section.) Students not familiar with MATLAB® should also consider purchasing one of the many introductory texts on this programming package. A reasonable choice that is easy to read and moderately priced is Etter, D. _Introduction to MATLAB® for Engineers and Scientists._ Prentice-Hall, 1996. (Noted by E in the {{% resource_link 445a0858-6f8a-383e-34f1-bfceb2463f5a "readings" %}} section.)
