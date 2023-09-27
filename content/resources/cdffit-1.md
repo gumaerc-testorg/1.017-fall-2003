@@ -28,4 +28,3 @@ video_metadata:
   youtube_id: ''
 ---
 function cdffit(data,ndist,p1,p2); Supporting file for Problem set 4.
-
