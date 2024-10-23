@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting file for Problem set 3.
-file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/8655d7f01be35834b796b70fe8bde7dc_ozone.m
+file: /ol-ocw-studio-app/courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/8655d7f01be35834b796b70fe8bde7dc_ozone.m
 file_size: 597
 file_type: text/plain
 learning_resource_types:
