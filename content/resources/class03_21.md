@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/8dfbf56ddd3d443df9bc589ba26efae6_class03_21.pdf
+file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/8dfbf56ddd3d443df9bc589ba26efae6_class03_21.pdf
 file_size: 329645
 file_type: application/pdf
 learning_resource_types:
