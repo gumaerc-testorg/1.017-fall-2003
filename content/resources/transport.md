@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Solution to Problem Set 3, question 1
-file: /ol-ocw-studio-app/courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/04c746136d98569544df1493d9c33989_transport.m
+file: /courses/1-017-computing-and-data-analysis-for-environmental-applications-fall-2003/04c746136d98569544df1493d9c33989_transport.m
 file_size: 1675
 file_type: text/plain
 learning_resource_types:
