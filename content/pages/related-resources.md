@@ -55,22 +55,22 @@ Typing **help \[command\]** at the MATLAB® prompt will give you a brief explana
 
 If you DON'T know what command you are confused about, typing **help** at the MATLAB® prompt will give you a list of categories. Then typing **help \[category\]** will produce a list of commands in \[category\]. For example, one of the categories is graphics. Typing **help graphics** produces a list of the MATLAB® graphics commands.
 
-[MATLAB® on Athena](http://kb.mit.edu/confluence/display/category/MATLAB+on+Athena): A web-document covering basic MATLAB® usage from Athena On-Line Help.
+{{% resource_link "d97337e7-2b26-473a-8ef5-5e9ce73798b9" "MATLAB® on Athena" %}}: A web-document covering basic MATLAB® usage from Athena On-Line Help.
 
-[Inessential MATLAB®](http://www.mit.edu/afs/sipb/project/www/matlab/imatlab/imatlab.html): SIPB document of basic MATLAB® usage.?
+{{% resource_link "fec9068a-92f9-4e18-a77e-ed25975d958b" "Inessential MATLAB®" %}}: SIPB document of basic MATLAB® usage.?
 
-[MATLAB® at MIT](https://ist.mit.edu/mathworks/matlab): Information about MATLAB® from the Athena people. Contains a lot of logistical information as well as many useful links.?
+{{% resource_link "2ab50e3d-a093-46b7-87fd-61ccfbaa8d46" "MATLAB® at MIT" %}}: Information about MATLAB® from the Athena people. Contains a lot of logistical information as well as many useful links.?
 
-[Mathworks Homepage](http://www.mathworks.com/): The makers of MATLAB®. Information on acquiring Mathworks products plus links to documentation, etc.?
+{{% resource_link "41eac79c-c358-45d8-8ebc-83e6ac686ec0" "Mathworks Homepage" %}}: The makers of MATLAB®. Information on acquiring Mathworks products plus links to documentation, etc.?
 
-[Mathworks Support](http://www.mathworks.com/support/): This is a useful site that has technical information, web version of Helpdesk, and a downloadable user-library of scripts. Everything you ever dreamed of knowing about MATLAB®, plus you can always email Mathworks.?
+{{% resource_link "e1a2962d-8f30-494d-85cd-d25d3808a273" "Mathworks Support" %}}: This is a useful site that has technical information, web version of Helpdesk, and a downloadable user-library of scripts. Everything you ever dreamed of knowing about MATLAB®, plus you can always email Mathworks.?
 
-[Athena Minicourses](http://web.mit.edu/minidev/www/): Offered throughout the semester by the Athena Training Group. Basically a one hour short-course to get you started.
+{{% resource_link "f056768c-52c4-4321-b279-f3172b3f9d07" "Athena Minicourses" %}}: Offered throughout the semester by the Athena Training Group. Basically a one hour short-course to get you started.
 
 ## Useful Links
 
-[Rice Virtual Lab in Statistics](http://www.ruf.rice.edu/~lane/rvls.html) — This is an excellent site that includes a virtual textbook, many useful links, and some animated demos. Compiled by a psychology professor who teaches statistics.
+{{% resource_link "0484360f-f2bf-4b7b-8061-1cffe8e4872a" "Rice Virtual Lab in Statistics" %}} — This is an excellent site that includes a virtual textbook, many useful links, and some animated demos. Compiled by a psychology professor who teaches statistics.
 
-[Ecology through time](https://science.sciencemag.org/) — Science magazine site includes numerous links to sites with data from long-term ecological monitoring studies.
+{{% resource_link "cfdb0b87-d9e0-40ab-80f8-9bf5519c907a" "Ecology through time" %}} — Science magazine site includes numerous links to sites with data from long-term ecological monitoring studies.
 
-[NWIS water data](http://waterdata.usgs.gov/nwis) — USGS site with surface and ground water data for US.
+{{% resource_link "e3332abd-8e4b-41cc-b762-1e8b8cc5e0c6" "NWIS water data" %}} — USGS site with surface and ground water data for US.
